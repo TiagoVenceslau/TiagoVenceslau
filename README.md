@@ -27,7 +27,7 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoVenceslau)](https://github.com/anuraghazra/github-readme-stats)
 
-
+[![Top Langs](https://github.com/TiagoVenceslau/TiagoVenceslau/actions/workflows/nodejs-build.yaml/badge.svg)](http://www.pdmfc.com)
 
 
 
@@ -102,6 +102,7 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 [![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=ctr-workspace)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=acdc-workspace)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 #### Disclaimer:
