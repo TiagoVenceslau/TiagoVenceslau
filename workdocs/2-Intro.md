@@ -1,3 +1,6 @@
+## :wave: Welcome
+
+I'm Tiago from Portugal.
 
 Software Developer and an experienced Project Manager (in the Civil Engineering industry :roll_eyes::monocle_face:).
 
