@@ -1,0 +1,24 @@
+{
+  "name": "TiagoVenceslau",
+  "version": "0.1.0",
+  "description": "Tiago Venceslau's readme Profile",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx markdown-include ./mdCompile.json"
+  },
+  "engines": {
+    "node": "~14",
+    "npm": "~6"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "markdown-include": "^0.4.3"
+  },
+  "keywords": [
+    "profile",
+    "readme"
+  ],
+  "author": "TiagoVenceslau",
+  "license": "MIT",
+  "homepage": "https://github.com/TiagoVenceslau/TiagoVenceslau#readme"
+}

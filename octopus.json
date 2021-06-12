@@ -1,0 +1,15 @@
+{
+  "workDir": ".",
+	"docs": [
+		{
+			"name": "Documentation",
+			"src": ".",
+			"actions": [
+				{
+					"type": "execute",
+					"cmd": "node ./node_modules/markdown-include/bin/cli.js ./mdCompile.json"
+				}
+			]
+		}
+	]
+}
