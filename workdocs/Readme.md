@@ -4,8 +4,6 @@
 
 #include "./workdocs/3-Social.md"
 
-#include "./workdocs/4-Repo.md"
-
 #include "./workdocs/5-Skills.md"
 
 #include "./workdocs/6-Pinned.md"
