@@ -2,6 +2,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoV-PDMFC&show_icons=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoV-PDMFC)](https://github.com/anuraghazra/github-readme-stats)
+
 ##### Pinned Repositories:
 
 [![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=fgt-workspace)](https://github.com/anuraghazra/github-readme-stats)
