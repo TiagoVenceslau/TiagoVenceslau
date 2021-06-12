@@ -2,4 +2,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoVenceslau)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github.com/TiagoVenceslau/TiagoVenceslau/actions/workflows/nodejs-build.yaml/badge.svg)](http://www.pdmfc.com)
+[![Build](https://github.com/TiagoVenceslau/TiagoVenceslau/actions/workflows/nodejs-build.yaml/badge.svg)](http://www.pdmfc.com)

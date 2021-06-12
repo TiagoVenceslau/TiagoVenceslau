@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoV-PDMFC)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Build](https://github.com/TiagoV-PDMFC/TiagoV-PDMFC/actions/workflows/SyncFork.yaml/badge.svg)](http://www.pdmfc.com)
+
 ##### Pinned Repositories:
 
 [![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=fgt-workspace)](https://github.com/anuraghazra/github-readme-stats)

@@ -27,7 +27,7 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoVenceslau)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github.com/TiagoVenceslau/TiagoVenceslau/actions/workflows/nodejs-build.yaml/badge.svg)](http://www.pdmfc.com)
+[![Build](https://github.com/TiagoVenceslau/TiagoVenceslau/actions/workflows/nodejs-build.yaml/badge.svg)](http://www.pdmfc.com)
 
 
 
@@ -94,6 +94,8 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoV-PDMFC&show_icons=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoV-PDMFC)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Build](https://github.com/TiagoV-PDMFC/TiagoV-PDMFC/actions/workflows/SyncFork.yaml/badge.svg)](http://www.pdmfc.com)
 
 ##### Pinned Repositories:
 
