@@ -12,6 +12,8 @@
 ![Pull Requests](https://img.shields.io/github/issues-pr-closed/TiagoVenceslau/TiagoVenceslau.svg)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoVenceslau&repo=TiagoVenceslau)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 

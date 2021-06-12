@@ -1,5 +1,8 @@
 [![Tiago's GitHub Banner](./assets/banner.png)](https://www.pdmfc.com)
 
+## :wave: Welcome
+
+I'm Tiago from Portugal.
 
 Software Developer and an experienced Project Manager (in the Civil Engineering industry :roll_eyes::monocle_face:).
 
@@ -12,6 +15,7 @@ Google is not your friend!
 Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 
 
+
 ## :shushing_face: Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/TiagoVenceslau)
@@ -19,9 +23,9 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 
 ### Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=TiagoVenceslau&theme=blue-white)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoVenceslau&theme=blue-white)
-![StarChart](https://starchart.cc/TiagoVenceslau/TiagoVenceslau.svg)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoVenceslau&show_icons=true)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoVenceslau)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -42,6 +46,8 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 ![Closed Issues](https://img.shields.io/github/issues-closed/TiagoVenceslau/TiagoVenceslau.svg)
 ![Pull Requests](https://img.shields.io/github/issues-pr-closed/TiagoVenceslau/TiagoVenceslau.svg)
 ![Maintained](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoVenceslau&repo=TiagoVenceslau)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
@@ -106,14 +112,29 @@ Want to know more about me? [Check out my website.](https://www.pdmfc.com/)
 
 ## 📌 Pinned Repositories
 
+[![OpenDSU Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoVenceslau&repo=OpenDSU)](https://github.com/anuraghazra/github-readme-stats)
+
+[![deepCloning Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoVenceslau&repo=DeepCloning)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TiagoVenceslau&repo=octopus)](https://github.com/anuraghazra/github-readme-stats)
 
 ## :sunglasses: Professional Accounts
 
 ### PDM&FC
 
+#### Worked there as a Software Developer since 2018
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoV-PDMFC&show_icons=true)
+
+##### Pinned Repositories:
+
+[![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=fgt-workspace)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=ctr-workspace)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Octopus Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PharmaLedger-IMI&repo=acdc-workspace)](https://github.com/anuraghazra/github-readme-stats)
 
 
 #### Disclaimer:
 
-badges from [here](https://dev.to/envoy_/150-badges-for-github-pnk)
+badges found [here](https://dev.to/envoy_/150-badges-for-github-pnk), [here](https://github.com/alexandresanlim/Badges4-README.md-Profile#-social-) and [here](https://github.com/Ileriayo/markdown-badges)

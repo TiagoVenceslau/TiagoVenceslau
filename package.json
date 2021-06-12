@@ -4,7 +4,8 @@
   "description": "Tiago Venceslau's readme Profile",
   "main": "index.js",
   "scripts": {
-    "build": "npx markdown-include ./mdCompile.json"
+    "build": "npx markdown-include ./mdCompile.json",
+    "test": "echo \"Build Successfull. Test Passed!\""
   },
   "engines": {
     "node": "~14",
